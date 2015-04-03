@@ -1,15 +1,16 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Fahchen's blog
+description: 一个地方写点东西
+meta_description: 一个地方写点东西
 
 markdown: redcarpet
 highlighter: pygments
 logo: false
-paginate: 15
+paginate: 7
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+permalink: /:month-:day-:year/:title.html
+domain_name: 'http://fahchen.me'
+google_analytics: 'UA-61511673-1'
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'http://fahchen.me'
+author:         'Phil Chen'
