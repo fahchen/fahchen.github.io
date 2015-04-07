@@ -14,3 +14,5 @@ google_analytics: 'UA-61511673-1'
 # Details for the RSS feed generator
 url:            'http://fahchen.me'
 author:         'Phil Chen'
+author_bio: 除了必不可少的，我一无所需。
+
