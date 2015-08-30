@@ -760,6 +760,13 @@ body:not(.post-template) .post-title {
 
 .read-more {
     text-decoration: none;
+    color: #9EABB3;
+    font-size: 1.2rem;
+    margin-left: .6rem;
+}
+.read-more:hover {
+    text-decoration: underline;
+    color: #9EABB3;
 }
 
 .post-meta {
