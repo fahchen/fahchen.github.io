@@ -1,6 +1,6 @@
 name: Fahchen's blog
-description: 一个地方写点东西
-meta_description: 一个地方写点东西
+description: In FREEDOM we trust
+meta_description: In FREEDOM we trust.
 
 markdown: redcarpet
 highlighter: pygments
@@ -9,10 +9,10 @@ paginate: 7
 baseurl: /
 permalink: /:month-:day-:year/:title.html
 domain_name: 'http://fahchen.me'
-google_analytics: 'UA-61511673-1'
+google_analytics: 'UA-36499516-2'
 
 # Details for the RSS feed generator
 url:            'http://fahchen.me'
 author:         'Phil Chen'
-author_bio: 除了必不可少的，我一无所需。
+author_bio: In FREEDOM we trust.
 
