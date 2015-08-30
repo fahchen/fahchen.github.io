@@ -7,7 +7,7 @@ highlighter: pygments
 logo: false
 paginate: 7
 baseurl: /
-permalink: /:month-:day-:year/:title.html
+permalink: /:month-:day-:year/:title
 domain_name: 'http://fahchen.me'
 google_analytics: 'UA-36499516-2'
 
