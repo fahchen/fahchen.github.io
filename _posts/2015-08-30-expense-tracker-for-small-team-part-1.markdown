@@ -3,7 +3,6 @@ layout: post
 title: Expense Tracker for small team (Part-1)
 date: "2015-08-30 13:19:55 +0800"
 categories: Product
-disqus: true
 ---
 
 **TL;DR**
