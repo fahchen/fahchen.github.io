@@ -12,6 +12,7 @@ cover: /assets/sources/2015-09/iec-2015-meetup.jpg
 然而针对于小型公司甚至一个临时的团队、组织（如班级的班费收支，朋友聚会，NGO 等）
 并没有这样的一个 App 来解决财务的公开透明化等问题。
 
+> 题图：IEC 2015 meetup at Summer holidays
 
 #### 小团队的开支跟踪
 
