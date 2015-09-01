@@ -3,6 +3,7 @@ layout: post
 title: Expense Tracker for small team (Part-1)
 date: "2015-08-30 13:19:55 +0800"
 categories: Product
+cover: /assets/sources/2015-09/iec-2015-meetup.jpg
 ---
 
 **TL;DR**
