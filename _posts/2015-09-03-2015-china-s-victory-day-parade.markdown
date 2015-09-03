@@ -18,3 +18,6 @@ cover: /assets/sources/2015-09/chuanjun.jpg
 期望有一天我们能正视这段历史，不让那一辈浴血奋战的军人寒心，70 年了，
 当时正值青春年少的军人们几乎都要走完了。
 
+![blocked-vpn](/assets/sources/2015-09/blocked-vpn.png)
+🙈🙈🙈
+
