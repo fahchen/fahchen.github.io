@@ -12,3 +12,15 @@
 @import
 	"syntax"
 ;
+
+::-moz-selection {
+    background-color: hsl(0, 0%, 29%);
+    color: hsl(0, 0%, 98%);
+    transition: color ease 0.3s;
+}
+
+::selection {
+    background-color: hsl(0, 0%, 29%);
+    color: hsl(0, 0%, 98%);
+    transition: color ease 0.3s;
+}

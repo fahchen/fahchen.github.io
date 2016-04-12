@@ -2,7 +2,7 @@ name: In FREEDOM we trust
 description: Thoughts, ideas and life.
 meta_description: In FREEDOM we trust.
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 7
@@ -10,6 +10,7 @@ baseurl: /
 permalink: /:year-:month-:day/:title
 domain_name: 'http://fahchen.me'
 google_analytics: 'UA-36499516-2'
+gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            'http://fahchen.me'
