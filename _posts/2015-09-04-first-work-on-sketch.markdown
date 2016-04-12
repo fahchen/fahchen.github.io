@@ -12,9 +12,9 @@ cover: /assets/sources/2015-09/designcode.jpg
 
 第一个稍微完整一点的 Web App 设计，不得不说 Sketch 在 UI 设计上完爆 PhotoShop
 
-![Contact](/assets/sources/Contacts\ design/Contacts.png)
+![Contact](/assets/sources/ContactsDesign/Contacts.png)
 
-[Download Contact.sketch source](/assets/sources/Contacts\ design/Contacts.sketch)
+[Download Contact.sketch source](/assets/sources/ContactsDesign/Contacts.sketch)
 
 **推荐几个插件：**
 
