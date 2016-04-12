@@ -3,7 +3,7 @@ description: Thoughts, ideas and life.
 meta_description: In FREEDOM we trust.
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 7
 baseurl: /
