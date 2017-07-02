@@ -3,7 +3,7 @@ layout: post
 title: "IEC 六年了"
 date: "2017-06-19 17:07:07 +0800"
 categories: Team
-cover: /assets/sources/2017-06/start.jpg
+cover: /assets/sources/2017-06/start.JPG
 ---
 
 > 题图：梦开始的地方（IEC 互动体验中心）
